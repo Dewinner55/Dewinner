@@ -1,0 +1,7 @@
+result = get_all_links()
+print(result)
+print(len(result))
+
+# url = "http://kenesh.kg/ru/deputy/list/35"
+# html = get_html(url)
+# get_deps_links(html)

@@ -1,0 +1,4 @@
+# pip install -r requirements.txt (чтобы сказать все библетоки через текстовый документ
+peewee
+psycopg2-binary
+
